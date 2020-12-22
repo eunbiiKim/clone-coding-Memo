@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (5.4.1)
+  - AlamofireNetworkActivityIndicator (3.1.0):
+    - Alamofire (~> 5.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - AlamofireNetworkActivityIndicator (~> 3.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireNetworkActivityIndicator
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  AlamofireNetworkActivityIndicator: 6564782bd7b9e6c430ae67d9277af01907b01ca4
+
+PODFILE CHECKSUM: 9a7f259c4952c375d05737dfdcdb07c01413fd7c
+
+COCOAPODS: 1.10.0
