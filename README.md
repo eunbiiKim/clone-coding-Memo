@@ -11,4 +11,4 @@
 * 메모작성 / 메모상세페이지 / 메모삭제 / 메모 내 메모 검색 / 최신글 정렬
  
 ## 포트폴리오 링크
-<https://www.notion.so/Copy-of-CoreData-01d252b8f68b4072a939438a5cabde81>
+<https://www.notion.so/01d252b8f68b4072a939438a5cabde81>
